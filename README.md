@@ -6,6 +6,7 @@
 3-15 апреля 2023 г.
 
 
-Проект в iNaturalist<br>обобщает наблюдения сотрудников, обучающихся и выпускников Карагандинского университета им. академика Е.А. Букетова<br>
+[Проект в iNaturalist](https://www.inaturalist.org/projects/karaganda-buketov-university)
+<br>обобщает наблюдения сотрудников, обучающихся и выпускников Карагандинского университета им. академика Е.А. Букетова<br>
 
 [Karaganda Buketov University](https://www.inaturalist.org/projects/karaganda-buketov-university)
